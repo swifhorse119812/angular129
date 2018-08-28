@@ -1,0 +1,1144 @@
+.event-groupings__conferences {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+}
+
+.articlepost-single-content {
+    float: left;
+    width: 100%;
+    color: #000;
+    background-color: transparent;
+    padding: 5px;
+    margin-top: 0px;
+    border: 0px solid #dfdfdf;
+    margin-bottom: 5px;
+}
+
+
+
+
+h1.pagetitle {
+    font-family: 'Roboto Slab';
+    font-weight: 300;
+    font-size: 38px;
+    color: #fff;
+}
+
+
+
+h1.searchtitle {
+    font-family: 'Roboto Slab';
+    font-weight: 300;
+    font-size: 38px;
+    color: #fff;
+}
+
+
+div.stcp {
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    width: 120px;
+}
+
+.caption {
+    display: block;
+}
+.vcaption {
+    display: block;
+}
+
+h3.home-title {color:#555;}
+
+
+.wpcf7 input[type=submit] {
+    padding: 10px 31px;
+    background: #FF0000;
+    color: #fff;
+    font-size: 14px;
+    font-weight: bold;
+    border: 0 none;
+    cursor: pointer;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+}
+
+	.eventspan_1_of_3{width:17%;}
+
+
+h1.singlepage {
+	color:#fff;
+
+}
+
+
+
+.home-header {
+    height:100%;
+}
+
+	.nexteventsspann_1_of_3 {
+    width: 22%;
+    padding-top: 0px;
+    text-align: center;
+    box-shadow: 0 1px 2px 0 rgba(0,0,0,0.21);
+    justify-content: center;
+    background-color: #11223C;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+	
+	.nexteventspan_2_of_3{width:70%;
+	    padding-left:10px;
+		color:#fff;
+	    
+	    
+	}
+	
+	
+	
+.nexteventsspan_3_of_3 {width: 18%; padding-top: 0px;}	
+	
+	
+	.nexteventdetailslisting {
+    font-size: 13px;
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+	
+	
+	.nemonth {
+    margin: 6px 0;
+    font-size: 14px;
+}
+	.neday {
+    font-size: 18px;
+    margin: 0px 0;
+    font-weight: bolder;
+	}
+	
+	.neyear {
+    font-size: 14px;
+    margin: 5px 0;
+}
+	
+	.nexteventstickets {
+    font-size: 14px;
+    margin-top: 0px;
+    border-radius: 3px;
+    min-height: 20px;
+    padding: 5px 15px;
+    text-align: center;
+    min-width: 118px;
+    background: #e53b2c;
+    font-weight: 700;
+    display: inline-block;
+    color: #fff;
+}
+	
+	
+
+.teampagebadge {
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    width: 100%;
+}
+
+
+.stcp {
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    width: 130px;
+    margin-top:10px;
+}
+
+.caption {
+    display: block;
+    font-size: 22px;
+}
+.vcaption {
+    display: block;
+    font-size: 22px;
+}
+
+
+.event-groupings__conference {
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 0 50%;
+    -ms-flex: 0 0 50%;
+    flex: 0 0 50%;
+}
+.event-groupings__conference__header {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font: 500 18px proxima-nova,Proxima Nova,Arial,Helvetica,sans-serif;
+    line-height: 170%;
+    color: #494949;
+    margin: 15px 0;
+}
+
+.event-groupings__conference-division-header {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font: 600 15px proxima-nova,Proxima Nova,Arial,Helvetica,sans-serif;
+    line-height: 170%;
+    color: #fff;
+    margin: 15px 0;
+}
+
+.event-groupings__team {
+    width: 95%;
+    height: 70px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font: 500 16px proxima-nova,Proxima Nova,Arial,Helvetica,sans-serif;
+    display: block;
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 0 330px;
+    -ms-flex: 0 0 330px;
+    flex: 0 0 330px;
+    padding: 0;
+    background: transparent;
+    border: 0px solid #ddd;
+    border-radius: 3px;
+    text-decoration: none;
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+    color: #fff;
+    -webkit-transition: .1s;
+    transition: .1s;
+    text-align: center;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    cursor: pointer;
+    line-height: 61px;
+    -webkit-appearance: none;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    margin: 0 0 5px;
+    -webkit-box-pack: start;
+    -webkit-justify-content: flex-start;
+    -ms-flex-pack: start;
+    justify-content: flex-start;
+}
+
+.event-groupings__team__photo {
+    width: 50px;
+    height: 50px;
+    margin-left: 5px;
+    border-radius: 2px;
+    background-position: 50%;
+    background-size: cover;
+}
+
+.event-groupings__team__label {
+    margin-left: 20px;
+    line-height: 100%;
+}
+
+.category-view .league-view__conference {
+    margin-bottom: 30px;
+}
+
+
+.page__main-view {
+    position: relative;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-box-flex: 1;
+}
+
+
+
+
+.listingdescription {
+	float:left;
+	width:100%;
+    background-color: #FfFfFf;
+    border: 1px solid #f6f6f6;
+    color: #555;
+    font-size: 15px;
+    line-height: 28px;
+    margin-top: 5px!important;
+    padding: 36px 32px;
+    margin-bottom: 10px;
+    box-shadow: 0 2px 8px rgba(27,39,51,.08);
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.demandhigh {background-color:darkcyan;
+color:white; font-weight:700; padding:5px;}
+
+.competitionname
+ {
+	 
+	 font-weight:600;
+	 font-size:16px;
+	 
+ }
+
+
+.eventdetailarchive
+ {
+	 
+	 font-weight:600;
+	 font-size:16px;
+	 
+ }
+
+.eventdetailarchivelist
+ {
+	 
+	 font-weight:600;
+	 font-size:14px;
+	 
+ }
+
+.textwidget {
+    margin-top: 54px;
+}
+
+
+
+
+.eventsfound {
+    background: 0 0;
+    color: #a3a3a3;
+    font-weight: 600;
+    font-size: 14px;
+    padding: 0;
+}
+
+.averageteamprice {
+    color: #639d07;
+    font-size: 18px;
+    padding: 0;
+	font-weight:600;
+}
+.averageteampricetext {
+    color: #639d07;
+    font-size: 14px;
+    padding: 0;
+	font-weight:600;
+}
+
+.AVTP {
+    float: left;
+    width: 25%;
+    margin: 3px 1% 15px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    padding: 20px 15px;
+    box-shadow: 0 4px 6px rgba(50,50,93,.11), 0 0px 3px rgba(0,0,0,.08);
+    color: #000;
+    border-radius: 6px;
+	text-align:center;
+}
+
+.PricingDetails {
+   
+    width: 100%;
+ 
+}
+
+
+.articlereview {
+    width: 67.015%;
+    padding: 3.994%;
+    float: left;
+    margin-bottom: 30px;
+    background: #fff;
+    box-shadow: 0px 0px 1px 0px rgba(50, 50, 50, 0.1);
+}
+
+
+
+
+
+
+div.wpcf7-mail-sent-ok {
+    border: 2px solid #fff;
+    font-weight: 600;
+    color: white;
+}
+
+
+
+
+
+.featuretextheading{
+	font-weight:700;
+	font-size:17px;
+	margin:25px 0px 10px;
+	
+	}
+	
+	featuretext{
+
+	font-size:14px;
+	
+	}
+	
+	
+	
+	
+
+
+
+
+.footertoplinks {
+    padding-top: 20px;
+    border-top: 1px solid #e5e5e5;
+}
+
+
+.footertoplinkslist {
+    width: 980px;
+    margin: 0 auto;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.footerlinks ul {
+    list-style: none;
+}
+
+#subscribestcheader {
+	display:none;
+	text-align: center;
+    background: #11223C;
+    margin-top: 10px;
+    border-top: 150px solid #F5F5F5;
+    border-right: 50vw solid transparent;
+    border-left: 50vw solid transparent;
+}
+
+
+#subscribeticketyoda {
+    text-align: center;
+    background: #11223C;
+    padding: 20px;
+    margin-top: 0px;
+}
+
+#h2subscribe {
+    font-size: 20px;
+    color: #fff;
+	font-weight:600;
+}
+#h2subscribelist {
+    font-size: 20px;
+    color: darkcyan;
+	font-weight:600;
+}
+
+
+
+
+.title-section {
+	text-align:center;
+}
+
+.hero-title {
+    margin-top: 10px;
+    color: #fafafa;
+    font-size: 26px;
+	font-weight:600;
+	margin: 50px auto 0px auto;
+    width: 100%;
+}
+.hero-subtitle {
+    color: #fafafa;
+    font-size: 18px;
+}
+
+.h5 {
+    font-weight: 700;
+    margin-bottom: 10px;
+    color: darkcyan;
+    font-family: proxima-nova,Roboto,Helvetica,sans-serif;
+}
+
+.section, .sectionfooter {	
+	font-size:14px;
+	}
+
+.ticket{
+  display: inline-block;
+  font-weight: 700;
+  box-shadow: 4px 0px 0px rgba(0,0,0,0.25) inset, -4px 0px 0px rgba(0,0,0,0.25) inset;
+  position: relative;
+  padding: 0.75em 1.25em;
+  margin: 0 1em 1em 0;
+  color: #fff;
+  text-shadow: 0 1px 1px rgba(black, .2);
+  background: #e53b2c;
+  border-right: dotted 2px #fff;
+  min-width:100px;
+  }
+  
+  
+  
+  .ticketsold{
+  display: inline-block;
+  font-weight: 700;
+  box-shadow: 4px 0px 0px rgba(0,0,0,0.25) inset, -4px 0px 0px rgba(0,0,0,0.25) inset;
+  position: relative;
+  padding: 0.75em 1.25em;
+  margin: 0 1em 1em 0;
+  color: #fff;
+  text-shadow: 0 1px 1px rgba(black, .2);
+  background: darkgrey;
+  border-right: dotted 2px #fff;
+  min-width:150px;
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+  .viewticketsbutton:hover,.viewticketsbuttonrelated:hover {
+	
+background: darkcyan;	
+	}
+  
+ 
+  .searchheader  input
+  {
+	padding:5px 10px;
+  }
+
+  .buttonheader
+  {
+	padding: 9px 11px;
+    background-color: cadetblue;
+    border: 0;
+    color: #fff;
+    border-radius: 2px;
+}
+  .buttonsearchhome
+  {
+	padding: 9px 11px;
+    background-color: cadetblue;
+    border: 0;
+    color: #fff;
+	width:200px;
+    border-radius: 4px;
+}
+  .homesearchinput{width:300px; border-radius:4px;}
+  
+  
+.category-descripton {background-color:transparent;border:0px solid #dfdfdf;color:#fff;font-size:15px;line-height:28px;margin-top:15px!important;padding:36px 32px; margin-bottom:10px;}
+.category-descriptontwo {background-color:#fff;border:1px solid #dfdfdf;color:#555;font-size:15px;line-height:28px;margin-top:15px!important;padding:36px 32px; margin-bottom:10px;}
+.zerolistings {border:0px solid #f6f6f6;color:#fff;font-size:15px;line-height:28px;margin-top:5px!important;padding:10px 32px; margin-bottom:10px;box-shadow:0 2px 8px rgba(27,39,51,.08); text-align:center;}
+.zeroelistings  {border:1px solid #f6f6f6;color:#555;font-size:15px;line-height:28px;margin-top:5px!important;padding:10px 32px; margin-bottom:10px;box-shadow:0 2px 8px rgba(27,39,51,.08); text-align:center; background:#fff;}
+
+.homesearchdiv {   
+background:linear-gradient(rgba(1,6,6,.9) 0,rgba(8,8,7,.9) 35%,rgba(71,71,71,0) 100%),url(https://www.safeticketcompare.com/site-images/footballhero.jpg);
+font-size:15px;line-height:28px;margin-top:14px!important;padding:30px 30px;  height:22em;}
+
+.homepagesearch{float:right; padding:10px; text-align:center; margin-top:5px; margin-bottom:10px;}
+
+
+.recentsearches{ color:white; padding:10px; text-align:center; margin:auto; align-content:center; margin-bottom:4px; text-transform:capitalize;}
+.recentsearches a {color:white;}
+
+ul.recentsearchull{display:-webkit-inline-box; list-style-type:none;}
+.recentsearchull li {background-color:firebrick; padding:2px; margin:10px; color:#fff; font-size:14px; border-radius:4px;}
+
+
+.googlemap{background-color:transparent;border:0px solid #dfdfdf;color:#555;font-size:15px; margin-top:0px!important;padding:26px 32px; margin-bottom:0px; float:left; width:100%;}
+ 
+.googlemapvenue{background-color:transparent;border:0px solid #dfdfdf;color:#555;font-size:15px; margin-top:0px!important;padding:26px 32px; margin-bottom:0px; float:left; width:50%;}
+
+
+.venuemap{background-color:transparent;border:0px solid #dfdfdf;color:#555;font-size:15px; margin-top:0px!important;padding:26px 32px; margin-bottom:0px; float:left; width:50%;}
+
+.ticket:hover {background-color:darkgreen;}
+
+
+
+
+
+
+
+
+
+
+.search-bar {
+    height: 54px;
+    line-height: 54px;
+}
+.search-bar {
+    background: #DE1924;
+    background: linear-gradient(-90deg, #DE1924 0%, #9D1A4B 50%, #DE1924 100%);
+    position: relative;
+    z-index: 99;
+    width: 100%;
+    color: #fff;
+}
+
+
+
+
+
+
+.nextgametags {background-color:transparent;border:0px solid #dfdfdf;color:#fff;font-size:15px;line-height:28px;margin-top:5px!important;padding:36px 32px; width:50%; float:left;	}
+
+
+.teaminfobox {background-color:transparent;border:0px solid #dfdfdf;color:#fff;font-size:15px;line-height:28px;margin-top:5px!important;padding:36px 32px; width:50%; float:right;	}
+
+ul.no_bullet {
+list-style-type: none;}
+
+li.football {
+background: url('https://www.ticketyoda.com/site-images/team-icon.png') no-repeat left top;
+height: 45px;
+padding-left: 44px;
+padding-top: 3px;
+font-weight:600;
+}
+
+
+h3.upcoming {text-align:center; color:#fff; margin-top:10px; margin-bottom:10px;}
+
+
+
+
+
+.result0 { border: 3px solid #dfdfdf; }
+p.bestsellerlabel{background-color:darkmagenta;font-size:12px; font-weight:600;color:#fff;width:25%; float:right;}
+p.bestsellerblank{background-color:transparent; float:right;}
+
+.features {opacity:0.25;}
+
+
+
+
+h2.comparetitle {  
+    text-align: center; 
+	 margin: 15px 0;
+    font-size: 28px;
+    color: #fff;
+	
+}
+
+
+
+h4.titles {
+    color: #212121;
+    font-size: 16px;
+    font-weight: 700;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    background-color: #f5f5f5;
+}
+
+
+.tooltip {
+    position: relative;
+    display: inline-block;
+	padding-left:5px;
+}
+
+.tooltip .tooltiptext {
+     position: absolute;
+  width:150px;
+  color: #301F29;
+  background: #FFFFFF;
+  border: 2px solid #EFEFEF;
+  line-height: 1.4;
+  text-align: center;
+  visibility: hidden;
+  border-radius: 6px;
+  font-size:16px;
+ padding:20px;
+
+    /* Position the tooltip */
+    
+ 
+ z-index:1;
+        top: 30px;
+       right: 18px;
+}
+
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.header-search{float:right;margin-right:35px; padding:10px;}.search-form{width:275px}.search-field{float:none;height:40px;font-size:13px}.header-search .search-field,.main-footer .search-field{width:235px}
+
+
+	.search-submit:hover{background:#333;color:#fff;}
+
+
+
+
+.search-submit {
+    float: right;
+    height: 35px;
+    width: 35px;
+    border-radius: 0px;
+    border: 0px;
+   background: url(https://www.ticketyoda.com/site-images/search-icon.png);
+    outline: 0;
+}
+
+
+.header_1 .search-area {
+    margin-top: 16px;
+    padding-right: 0px;
+    height: 45px;
+	border:1px solid #ccc;
+}
+
+@media (min-width: 992px)
+
+.col-md-8 {
+    width: 66.66666667%;
+}
+
+
+
+
+a.footerl {color:#fff;}
+
+.homepagesearch {width:100%;}
+
+.buyticketbutton:hover {background-color:darkgreen;}
+
+
+
+
+.day,.month,.year{text-align:center}blockquote,pre,sub,sup{position:relative}.group:after,.group:before,blockquote:after,blockquote:before,q:after,q:before{content:""}#navigation a,.month{text-transform:uppercase}*,.wp-caption-text,:after,:before,html,pre{box-sizing:border-box}#content[tabindex="-1"]:focus,:focus,a:active,a:hover{outline:0}#commentform inputs#submit,#navigation a,a,a:active,a:hover,a:link,a:visited,ins,mark{text-decoration:none}.blog_post_content{padding:0 0 0 2px}.blog_post h2{font-size:16px;line-height:1.3;margin-top:6px;margin-bottom:0;font-weight:700}
+
+
+.eventcontent{background-color:transparent;padding:20px;margin-top:15px;border:0px solid #dfdfdf;margin-bottom:10px; color:#fff;}
+
+bootstrap.min.css:9 .col-xs-12{width:100%}.col-xs-10,.col-xs-11,.col-xs-12,.col-xs-2,.col-xs-3,.col-xs-4,.col-xs-5,.col-xs-6,.col-xs-7,.col-xs-8,.col-xs-9,bootstrap.min.css:9 .col-xs-1{float:left}.col-lg-10,.col-lg-11,.col-lg-12,.col-lg-2,.col-lg-3,.col-lg-4,.col-lg-5,.col-lg-6,.col-lg-7,.col-lg-8,.col-lg-9,.col-md-1,.col-md-10,.col-md-11,.col-md-12,.col-md-2,.col-md-3,.col-md-4,.col-md-5,.col-md-6,.col-md-7,.col-md-8,.col-md-9,.col-sm-1,.col-sm-10,.col-sm-11,.col-sm-12,.col-sm-2,.col-sm-3,.col-sm-4,.col-sm-5,.col-sm-6,.col-sm-7,.col-sm-8,.col-sm-9,.col-xs-1,.col-xs-10,.col-xs-11,.col-xs-12,.col-xs-2,.col-xs-3,.col-xs-4,.col-xs-5,.col-xs-6,.col-xs-7,.col-xs-8,.col-xs-9,bootstrap.min.css:9 .col-lg-1{position:relative;min-height:1px;padding-right:15px;padding-left:15px}.eventdetails,.headingtitle{-moz-osx-font-smoothing:grayscale}
+
+
+.howtosection{background-color:transparent;border:0px solid #dfdfdf;color:#fff;font-size:15px;line-height:28px;margin-top:5px!important;padding:36px 32px;border-radius:3px; float:left; width:100%;}
+
+.404description{background:#fff;color:#000;margin-bottom:20px; margin-top:60px; border-top:1px solid #E2E2E2;border-bottom:1px solid #E2E2E2;line-height:20px;padding:15px}
+
+
+
+
+
+.day,.month{color:#30373b}.month{margin:6px 0;font-size:20px}.day{font-size:30px;margin:-10px 0;font-weight:bolder;line-height:1.5}.year{font-size:20px;margin:10px 0}.premierleague,.table-nexthomematches,.textwidget,.widget_categories{margin:0 0 20px;padding:20px}.eventdetails,.headingtitle,.f,.sectionfooter{margin:0;text-align:center}p.prices{font-size:27px; white-space: nowrap; font-family:proxima-nova,Roboto,Helvetica,sans-serif;font-weight:600;color:#3A3A3A}
+
+p.pricelabel{font-size:10px;color:#3A3A3A;float:left}
+
+
+
+.merchantlabel{background-color:#228b22;font-size:12px;color:#fff; padding: 0 5px; top: 12px; width:80%; font-weight:500;}
+.merchantlogo{ padding: 0 5px; top: 12px;}
+
+
+.home-header-overlay {
+
+  
+}
+
+.premierleague,.section,.table-nexthomematches,.textwidget{background:#fff;border:1px solid #dfdfdf}.NEXTFIXTURES{width:100%}.nextawaymatches{width:50%;float:right}.nexthomematches{width:50%;float:left}.table-nexthomematches{line-height:24px}.span_4_of_4{width:100%}.span_3_of_4{width:74.6%}
+.span_2_of_4{width:49.2%}
+.span_feature_of_4{width:22%; padding-top:40px;}
+.span_price_of_4{width:22%; padding-top:40px;}
+
+
+.span_1_of_4{width:23.8%}.buyticketbutton,.viewticketsbuttonrelated,.viewticketsbutton{background:#e53b2c; font-weight:700;display:inline-block;padding:6px 14px;color:#fff}.buyticketbutton{font-size:20px}
+.span_ticket_of_4{width:23.8%;}
+.viewticketsbutton{font-size:14px; margin-top:40px;}
+
+
+.viewticketsbuttonrelated{font-size:14px;
+margin-top:10px; 
+border-radius: 3px;
+    min-height:45px;
+    padding: 19px 29px;
+    text-align:center;
+    min-width:160px;}
+
+.col,article,articlereview,aside,details,figcaption,figure,footer,header,hgroup,nav,pre,section{display:block;}
+
+
+
+.home-header-container{
+width:100%;height:20em;background:#1673e6;
+background:linear-gradient(rgba(1,6,6,.9) 0,rgba(8,8,7,.9) 35%,rgba(71,71,71,0) 100%),url(https://www.safeticketcompare.com/site-images/footballhero.jpg);
+padding-top:30px;background-repeat: round;}
+
+
+h3.upcoming {font-weight:600;}
+
+
+
+.section,.sectionfooter{ text-align:center;clear:both; padding:0px 0px 0px 0px; width:90%; margin:auto; margin-top:10px;}
+
+
+
+
+
+.headingtitle{-webkit-font-smoothing:antialiased;font:500 50px proxima-nova,"Proxima Nova","Helvetica Neue",Arial,Helvetica;line-height:110%;color:#fff}
+
+
+.eventdetails{-webkit-font-smoothing:antialiased;font:500 15px proxima-nova,"Proxima Nova","Helvetica Neue",Arial,Helvetica;color:#fff; font-weight:600; margin-top:20px;}
+
+
+.sectionfooter{color:#fff}
+
+.eventsection{text-align:left;clear:both;padding:0;background:#fff;}
+.eventsectionsingle{text-align:left;clear:both;padding:0;background:transparent;}
+
+
+
+.col{float:left;margin:1% 0 1% 1.2%}#page,.breadcrumb,.breadcrumb .root a,.breadcrumb i,.breadcrumb>span{float:none}.col:first-child{margin-left:0}.group:after,.group:before{display:table}.group:after{clear:both}.group{zoom:1}.span_3_of_3{width:100%}.span_2_of_3{width:66.13%;}
+
+
+.span_1_of_3{width:32.26%;}
+.span_1_of_3footer{width:32.26%;}
+.span_mid_of_3{width:32.26%;}
+
+
+.eventsection{margin:auto;border:0 solid #dfdfdf; width:90%;}
+
+
+
+.eventsectionsingle{margin-top:5px;border:0px solid #dfdfdf}hr,img,legend{border:0}#wp-calendar,#wp-calendar th,.aligncenter,.gallery-item,.wp-caption{text-align:center}.eventspan_3_of_3{width:18%; padding-top:30px;}
+
+.eventspan_2_of_3{width:55%; text-align:center;}
+.eventspan_1_of_3{width:16%; 
+padding-top:30px;
+}
+
+
+.moeventspan_1_of_3{display:none;}
+
+
+
+span_mid_of_3{width:20%;}
+
+#site-header,body>header,table,textarea{width:100%}
+p.eventdetailslisting{font-size:15px;font-weight:500; text-align:center; margin-bottom:10px;}
+
+@media only screen and (max-width:480px){
+	
+	.buyticketbutton {width:100%;}
+	.merchantlabel{display:none;}
+	.ticket{padding:5px;}
+	.caption { font-size: 19px;} 	
+	#subscribestcheader {display:none;}
+	div.stcp{width:22%;}
+	h2.comparetitle {font-size:18px;}
+	p.bestsellerlabel{margin-bottom:6px;}
+	
+	/* Oldd.eventspan_1_of_3, span_mid_of_3,.eventspan_2_of_3,.eventspan_3_of_3,.nextawaymatches,.nexthomematches, span_mid_of_3,.span_1_of_3,.span_1_of_4, .span_feature_of_4, .span_price_of_4,.span_2_of_3,.span_2_of_4,.span_3_of_3,.span_3_of_4,.span_4_of_4{width:100%}
+	*/
+	 span_mid_of_3,.eventspan_2_of_3,.eventspan_3_of_3, span_mid_of_3,.span_1_of_3, .span_feature_of_4, .span_2_of_3,.span_2_of_4,.span_3_of_3,.span_3_of_4,.span_4_of_4{width:33%}
+	.nextawaymatches,.nexthomematches{width:100%;}
+	.col{margin:1% 0}.eventsection,.eventsectionsingle{text-align:center}
+	.eventspan_1_of_3{width:100%;}
+	.span_1_of_4{width:100%;}
+	p.prices {font-size:22px;}
+	.span_ticket_of_4{width:25%;}
+	.span_1_of_3footer{width:100%;}
+	.span_price_of_4{width:22%; padding-top:25px;}
+	.modate{
+    font-weight: 600;
+    text-transform: uppercase;
+	font-size: 16px;
+	font-family:proxima-nova,Roboto,Helvetica,sans-serif;
+	
+	}
+	
+	
+input, select, textarea {
+    padding: 8px 0px;
+	width:80%;
+	}
+	
+	
+	
+	.ticketsold{display:none;}
+	
+}
+	
+	
+	
+	
+	
+	
+	@media only screen and (max-width:800px){
+		
+		p.pricelabel{font-size:10px;color:#3A3A3A; align-content:center;}
+
+.section { text-align:center;clear:both; padding:0px 0px 0px 0px; width:100%; margin:auto; margin-top:10px;}
+		
+		.homepagesearch{display:none;}
+		
+		.bctitle {display:none;}
+		.eventspan_1_of_3,span_mid_of_3,.span_1_of_3, .span_feature_of_4, span_price_of_4, .span_2_of_3,.span_2_of_4,.span_3_of_3,.span_3_of_4,.span_4_of_4
+		{width:33%}
+		
+		.eventspan_3_of_3{width:100%;}
+		.col{margin:0% 0;}
+		.nextawaymatches,.nexthomematches{width:100%;}
+		.span_feature_of_4 {display:none;}
+		.span_1_of_3footer{width:100%;}
+		.ticket {margin:0 0 0 0; float:right;}
+		.eventspan_2_of_3{width:100%;}
+		.span_1_of_4 {width:25%;}
+		.span_ticket_of_4 {width:44%;}
+		.googlemapvenue, .venuemap {width:100%;}
+		
+		ul.recentsearchull {display:none;}
+		/* Ol Layout .eventspan_1_of_3,span_mid_of_3,.eventspan_2_of_3,.eventspan_3_of_3,.nextawaymatches,.nexthomematches,.span_1_of_3,.span_1_of_4, .span_feature_of_4, .span_2_of_3,.span_2_of_4,.span_3_of_3,.span_3_of_4,.span_4_of_4{width:100%}.col{margin:0% 0} */
+		
+		
+		
+		
+		
+		.eventspan_1_of_3{display:none;}
+		
+		
+.moeventspan_1_of_3{
+    display: inline-flex;
+    justify-content: center;
+    width: 100%;
+    text-align: center;
+    padding:10px;
+    background: #11223C;
+    color: white;
+}
+
+.eventspan_3_of_3 {
+    padding-top: 10px;
+}
+		
+		
+	.viewticketsbuttonrelated {
+    font-size: 14px;
+    margin-top: 0px;
+    border-radius: 3px;
+    width: 60%;
+    margin-bottom: 10px;
+    text-align: center;
+}	
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		.eventsection,.eventsectionsingle{text-align:center}}*,:after,:before,body,button,input,ol,select,textarea,ul{margin:0}html{font-family:sans-serif;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%}body{overflow-x:hidden;font-family:Raleway;font-weight:400;font-size:16px;line-height:1.5;color:#444}*,:after,:before{padding:0;box-sizing:inherit}article,articlereview,aside,details,figcaption,figure,footer,header,main,menu,nav,section,summary{display:block}audio,canvas,progress,video{display:inline-block;vertical-align:baseline}audio: not([controls]){display:none;height:0}[hidden],template{display:none}a{background-color:transparent}abbr[title]{border-bottom:1px dotted}b,optgroup,strong{font-weight:700}dfn{font-style:italic}mark{color:#000}small{font-size:80%}sub,sup{font-size:75%;line-height:0;vertical-align:baseline}sup{top:-.5em}sub{bottom:-.25em}img{height:auto;max-width:100%}svg: not(: root){overflow:hidden}code,kbd,pre,samp{font-family:monospace,monospace;font-size:1em}button,input,optgroup,select,textarea{color:inherit;font:inherit;margin:0}button{overflow:visible}button,select{text-transform:none}legend{padding:0}a:link{-webkit-tap-highlight-color:transparent}.breadcrumb{background:0 0;color:#a3a3a3;font-weight:600; font-size:14px;padding:0}h1,h2,h3,h4,h5,h6{line-height:1.4}.breadcrumb>span{padding:0 5px;overflow:hidden;float:none;display:inline-block}.breadcrumb i,ol,ul{padding:0}.breadcrumb>span.home{padding-left:0}.no-results h2{font-size:16px}h1,h2,h3,h4,h5,h6{font-weight:400;margin-bottom:12px;color:#fff;font-family:proxima-nova,Roboto,Helvetica,sans-serif;}h1{font-size:28px}
+		h2{font-size:18px;color:darkcyan; font-weight:600;}
+		h5{font-size:18px;color:white; font-weight:600;}
+		h3{font-size:22px}h4{font-size:20px}h6{font-size:16px}cite,dfn,em,i{font-style:italic}blockquote{margin:25px 1.5em 0;font-weight:400;padding:0 10px 20px 27px}address{margin:0 0 1.5em}pre{overflow:auto;padding:25px 15px 15px;margin:15px 0;background:#222;font-family:monospace;color:#aaa}code,kbd,tt,var{font-family:Monaco,Consolas,"Andale Mono","DejaVu Sans Mono",monospace;font-size:15px;font-size:.9375rem}abbr,acronym{border-bottom:1px dotted #666;cursor:help}ins,mark{background:#fff9c0}big{font-size:125%}
+		
+		
+		
+		body{
+		background: #11223c;
+    background-image: url(https://www.safeticketcompare.com/site-images/bgstc.jpg);
+    background-position: top center;
+    background-repeat: no-repeat;
+		}
+		
+		.single{background:#11223c;}
+		.home{background:#f5f5f5;}
+		
+		blockquote,q{quotes:"" ""}blockquote:after{font-family:Georgia,serif;position:absolute;content:'"';font-size:40px;width:50px;top:-10px;left:0}blockquote p{margin-bottom:10px}hr{box-sizing:content-box;background-color:#ccc;height:1px;margin-bottom:1.5em}ul{list-style:disc}ol{list-style:decimal}li>ol,li>ul{margin-bottom:0;margin-left:17px;margin-top:5px}dt{font-weight:700}dd{margin:0 1.5em 1.5em}table{border-collapse:collapse;border-spacing:0;margin-bottom:15px}td,th{padding:5px 15px;border:1px solid #e2e2e2;text-align:left}textarea{padding-left:3px}@font-face{font-family:schema-lite;src:url(fonts/schema-lite.eot);src:url(fonts/schema-lite.eot#iefix) format('embedded-opentype'),url(fonts/schema-lite.woff2) format('woff2'),url(fonts/schema-lite.woff) format('woff'),url(fonts/schema-lite.ttf) format('truetype'),url(fonts/schema-lite.svg) format('svg');font-weight:400;font-style:normal}[class*=" icon-"]:before,[class^=icon-]:before{font-family:schema-lite;font-style:normal;font-weight:400;speak:none;display:inline-block;text-decoration:inherit;text-align:center;font-variant:normal;text-transform:none;line-height:1em;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.icon-down-dir:before{content:'\e800'}.icon-tags:before{content:'\e801'}.icon-comment:before{content:'\e802'}.icon-user:before{content:'\e803'}.icon-home:before{content:'\e804'}.icon-mail:before{content:'\e805'}.icon-calendar:before{content:'\e806'}.icon-basket:before{content:'\e807'}.icon-right-dir:before{content:'\276F'}.icon-twitter:before{content:'\f099'}.icon-facebook:before{content:'\f09a'}.icon-rss:before{content:'\f09e'}.icon-menu:before{content:'\f0c9'}.icon-pinterest-circled:before{content:'\f0d2'}.icon-gplus:before{content:'\f0d5'}.icon-linkedin:before{content:'\f0e1'}.icon-angle-left:before{content:'\f104'}.icon-angle-right:before{content:'\f105'}.icon-github:before{content:'\f113'}.icon-youtube:before{content:'\f167'}.icon-dropbox:before{content:'\f16b'}.icon-instagram:before{content:'\f16d'}.icon-flickr:before{content:'\f16e'}.icon-tumblr:before{content:'\f173'}.icon-dribbble:before{content:'\f17d'}.icon-skype:before{content:'\f17e'}.icon-foursquare:before{content:'\f180'}.icon-vimeo-squared:before{content:'\f194'}.icon-reddit:before{content:'\f1a1'}.icon-stumbleupon:before{content:'\f1a4'}.icon-behance:before{content:'\f1b4'}.icon-soundcloud:before{content:'\f1be'}.icon-plus:before{content:'\e809'}.icon-minus:before{content:'\e80a'}.main-container{width:100%;margin:0 auto;max-width:100%;clear:both}#page,.container{max-width:1152px;min-width:240px;overflow:visible;margin:0 auto;position:relative}.main-header .container,.related-posts #featured-thumbnail .featured-thumbnail{max-width:100%}#page{padding-top:15px;min-height:100px;clear:both;overflow:hidden}#site-header,.site-branding,body>header{position:relative;float:left}#site-header{z-index:99;padding:0;background:#11223C}#navigation ul li.current-menu-item a,.primary-navigation li:hover a,.top-navigation{background:#fff}.site-branding{margin:0 auto;overflow:hidden;padding:4px 0 4px}.site-branding h1,.site-branding h2{font-size:28px;display:inline-block;line-height:1;margin:0;text-transform:uppercase}#logo a{color:#fff;display:block}.primary-navigation .children li .sf-sub-indicator,a#pull{display:none}.site-description{margin-top:-18px;margin-bottom:10px}.top-navigation #navigation{float:right;}.top-navigation #navigation ul li a{font-family:Raleway;font-weight:500;font-size:13px;color:#777;padding:17px 15px 16px}.top-navigation .menu-item-has-children>a:after{right:14px}.top-navigation #navigation .menu-item-has-children>a{padding-right:25px}
+		
+		.primary-navigation{display:block; float:right; padding-left:0px; max-width:100%;margin:0}
+		
+		
+		
+		#navigation ul{list-style-type:none}
+		#navigation a{text-align:left;padding:14px;transition:none;font-family:Raleway;font-weight:700;font-size:15px;color:#fff;display:block}
+		
+		.primary-navigation a .sub{font-size:11px;font-weight:400;color:#9B9B9B}#navigation .sf-sub-indicator{display:block;width:11px;overflow:hidden;position:absolute;right:7px;top:0}#navigation .toggle-caret,#navigation select,.widget .menu-item-has-children>a:after{display:none}#navigation ul li{float:left;position:relative}#navigation ul .header-search{float:right}#navigation>ul>li: last-child{border-right:none}#navigation>ul>.current a{background:0 0;color:#5a5a5a!important}#navigation ul li li{background:#fff;width:100%}#navigation ul ul{margin:0;display:none;position:absolute;width:255px;padding:0;z-index:400;font-size:12px;color:#798189;box-shadow:0 2px 1px 0 rgba(50,50,50,.2)}.article,.articlereview,.articlehome,.eventarticle{box-shadow:0 0 0px 0 rgba(50,50,50,.1);float:left}#navigation ul ul a{color:#777}#navigation ul ul li{padding:0;background:#fff}#navigation ul ul li a,#navigation ul ul li a:link,#navigation ul ul li a:visited{position:relative;width:100%;background:0 0;margin:0;line-height:1.4;padding-top:10px;padding-bottom:10px}#navigation ul ul li: last-child{border-bottom:none}#navigation ul ul ul{top:0;left:255px}#navigation li li li li:hover ul,#navigation li li li:hover ul,#navigation li li:hover ul,#navigation li:hover ul{opacity:1}#navigation ul ul:after{left:10px;top:-5px}#navigation ul ul ul:after{border-color:transparent #282E33 transparent transparent;border-color:transparent rgba(14,19,22,.92) transparent transparent;left:-12px;top:3px}.menu-item-has-children>a:after{content:'\e800';font-family:schema-lite;position:absolute;right:22px}#navigation .menu-item-has-children>a{padding-right:38px}.primary-navigation #wpmm-megamenu .wpmm-posts a:hover{background:0 0}.ss-full-width,.woocommerce .article{background:#fff;margin-bottom:30px}.article{width:100%;padding:20;margin-bottom:30px}
+		
+		.eventarticle{width:100%;margin-bottom:30px;padding:0}
+		.articlehome{width:100%;padding:0;margin-bottom:30px}.woocommerce .article #content{padding:0}#content_box,.post{float:left;width:100%}.woocommerce .single_page,.woocommerce-page .single_page{padding-bottom:0}
+		
+		.post-single-content{float:left;width:100%; color:#fff;    background-color: transparent;
+    padding: 20px;
+    margin-top: 15px;
+    border: 0px solid #dfdfdf;
+    margin-bottom: 10px;}
+		
+		.readMore{float:left;margin-top:15px}.ss-full-width{padding:20px;overflow:hidden;border:1px solid #CDCDCD}.ss-full-width #content_box{padding-right:0;padding-left:0}.post.excerpt{clear:both;margin-bottom:10px}.related-posts .post.excerpt.last{margin-right:0;margin-left:0}.wp-post-image{float:left}.advanced-recent-posts .wp-post-image{min-width:65px}.featured-thumbnail{float:left;width:100%;position:relative}#featured-thumbnail{float:left;width:100%;margin-bottom:20px}.related-posts #featured-thumbnail{margin-right:0}.home_page .featured-thumbnail{max-width:150px}.featured-thumbnail img{margin-bottom:0;width:100%}.featured-thumbnail .latestPost-review-wrapper.wp-review-show-total{color:#fff;position:absolute;top:0;right:0;background:#FFF;padding:2px 8px}.tagcloud a,.tagcloud a:hover,.widget .wpt_widget_content #tags-tab-content ul li a:hover{background:#222}.title{font-family:'Roboto Slab';font-weight:300;font-size:38px;color:#222}.single-title{padding:0;-webkit-font-smoothing:antialiased;font:500 35px proxima-nova,"Proxima Nova","Helvetica Neue",Arial,Helvetica;line-height:110%;color:#fff;margin:0;text-align:center}.footer-widgets h3,.widget h3{font-family:'Roboto Slab';text-transform:uppercase}.title a{color:#0274be}.post-info{display:block;color:#aaa;float:left;clear:both;width:100%;margin-bottom:20px}.post-info span{margin-right:20px}.post-info span: last-child{margin-right:0}.post-info i{margin-right:5px}.single-postmeta{clear:both;float:left;margin-bottom:10px}article header{float:left;width:100%}.related-posts article header{margin-bottom:0}.single_post header{margin-bottom:10px}.post-info a,.single-post .post-info a{color:#999}.toggle-menu ul ul{display:none}.toggle-menu .toggle-menu-item-parent{position:relative}.toggle-menu .toggle-caret{position:absolute;top:0;right:3px;text-align:center;cursor:pointer;line-height:inherit}.toggle-menu .toggle-caret i{text-align:center;font-size:15px;color:inherit;line-height:20px}.toggle-menu .active>.toggle-caret .schema-lite-icon:before,.toggle-menu.active>.toggle-caret .schema-lite-icon:before{content:'\e80a'}.tagcloud a{font-size:initial!important;padding:2px 10px;margin-bottom:3px;float:left;margin-right:3px;color:#FFF!important;transition:all .25s linear;border-radius:3px}.widget .widget_wp_review_tab .review-total-only.large-thumb{top:15px;right:15px}.widget .wp_review_tab_widget_content,.widget .wp_review_tab_widget_content ul.wp-review-tabs li,.widget .wpt_widget_content ul.wpt-tabs li{border:none;overflow:hidden}.sidebar .wpt_widget_content .tab-content li,.widget .wp_review_tab_widget_content .tab-content li{border-bottom:0;padding:0;margin-bottom:15px}.sidebar .wpt_widget_content a,.widget .wp_review_tab_widget_content .entry-title{font-weight:400}.widget .wp_review_tab_widget_content .wp-review-tabs.has-4-tabs .tab_title a,.widget .wpt_widget_content .wpt-tabs.has-4-tabs .tab_title a{border-bottom:1px solid #1B1B1B;border-left:1px solid #1B1B1B}.widget .wp_review_tab_widget_content .wp-review-tabs.has-4-tabs .tab_title:nth-child(2n) a,.widget .wpt_widget_content .wpt-tabs.has-4-tabs .tab_title:nth-child(2n) a{border-right:none}.widget .wp_review_tab_widget_content .tab_title a,.widget .wpt_widget_content .tab_title a{background:#333;color:#7E7D7D;border:none;padding:14px 0;line-height:1;margin:0;white-space:nowrap;border-left:1px solid #1B1B1B}.widget .wp_review_tab_widget_content .tab_title.selected a,.widget .wpt_widget_content .tab_title.selected a{background:#222;color:#fff;border-bottom:0}.widget .wpt_widget_content #tags-tab-content ul li{float:left}.wpt_widget_content #tags-tab-content ul li a{font-size:initial;border-radius:3px}.widget .wp_review_tab_widget_content .pagination,.widget .wpt_widget_content .pagination{padding-bottom:15px}.widget .review-total-only,.widget .review-total-only.small-thumb{font-size:13px;padding:0;color:#222;background:0 0}footer .widget .review-total-only,footer .widget .review-total-only.small-thumb{color:#777}.widget .review-total-only.large-thumb,.widget li:first-child .review-total-only.large-thumb{right:0}footer .widget .review-total-only.large-thumb,footer .widget li:first-child .review-total-only.large-thumb{top:15px;right:15px}.widget .review-total-only.large-thumb{padding:4px 10px;background:#222;color:#fff}footer .review-total-only.small-thumb .review-result-wrapper i{color:#fff!important}.sidebar .widget .wpt_widget_content ul.has-4-tabs li{border-bottom:0}.widget .wpt_widget_content #tags-tab-content ul{box-shadow:none;padding:5px 0 0}.widget .wpt_widget_content{border:0}footer .widget .wp_review_tab_widget_content .inside,footer .widget .wpt_widget_content .inside{background:rgba(255,255,255,.05);padding:0}footer .widget .wp_review_tab_widget_content .tab-content li,footer .widget .wpt_widget_content .tab-content li{border-bottom-color:rgba(255,255,255,.05);padding:15px;margin-bottom:0}.widget .wp_review_tab_widget_content .wp-review-tab-postmeta,.widget .wpt_comment_content,.widget .wpt_excerpt,.widget .wpt_widget_content .wpt-postmeta{color:#aaa;font-size:14px!important;line-height:1.6;overflow:hidden}footer .widget .wpt_comment_content,footer .widget .wpt_excerpt,footer .widget .wpt_widget_content .wpt-postmeta,footer .wp_review_tab_widget_content .wp-review-tab-postmeta{color:rgba(255,255,255,.25)}.widget .has-4-tabs .wp_review_tab_widget_content .tab_title a,.widget .has-4-tabs .wpt_widget_content .tab_title a{background:#333;border-left:1px solid #1B1B1B;border-bottom:1px solid #1B1B1B}footer .widget .wp_review_tab_widget_content .tab_title.selected a,footer .widget .wpt_widget_content .tab_title.selected a{background:rgba(255,255,255,.2);color:#fff}a,a:hover{color:#0274be}footer .widget .wp_review_tab_widget_content .tab-content li:first-child,footer .widget .wpt_widget_content .tab-content li:first-child{padding-top:15px}footer .widget .wp_review_tab_widget_content .has-4-tabs .tab_title:nth-child(2n+1) a,footer .widget .wpt_widget_content .has-4-tabs .tab_title:nth-child(2n+1) a{border-left:0}.widget .wp_review_tab_widget_content .wp-review-tab-pagination,.widget .wpt_widget_content .wpt-pagination{padding-bottom:0}.widget .wp_review_tab_widget_content .wp-review-tab-pagination a,.widget .wpt_widget_content .wpt-pagination a{margin:0}footer .widget .wp_review_tab_widget_content .wp-review-tab-pagination a,footer .widget .wpt_widget_content .wpt-pagination a{padding:15px}#wp-calendar{margin-bottom:0;border:1px solid #e2e2e2}#wp-calendar td{text-align:center;padding:7px 0;border-top:1px solid #e2e2e2;border-right:1px solid #e2e2e2}#wp-calendar tbody{background:#FFF;border:1px solid #e2e2e2;border-top:0}#wp-calendar tbody th{border-bottom:1px solid #CFCFCF}#wp-calendar caption{font-size:16px;padding-bottom:10px;font-weight:700}#wp-calendar #prev{text-align:left;padding-left:12px}#wp-calendar thead{background:#e2e2e2}#wp-calendar thead th{padding:10px 0;text-align:center}#wp-calendar tfoot{background:#fff;border:1px solid #e2e2e2;border-top:0}p{margin-bottom:20px}a{transition:background-color,color .2s linear}.main-navigation.toggled ul,.menu-toggle{display:block}@media screen and (min-width:37.5em){.menu-toggle{display:none}.main-navigation ul{display:block}}.site-main .comment-navigation,.site-main .post-navigation,.site-main .posts-navigation{margin:0 0 1.5em;overflow:hidden}.comment-navigation .nav-previous,.post-navigation .nav-previous,.posts-navigation .nav-previous{float:left}.comment-navigation .nav-next,.post-navigation .nav-next,.posts-navigation .nav-next{float:right;text-align:right}#searchform{padding:3% 0;float:left;clear:both;width:100%}.article #searchform{padding:0}.article #searchform fieldset{width:100%}nav #searchform{float:left;padding:1.2% 0 0}nav #searchform fieldset{padding:5px 0;border:0}#searchform fieldset{float:left;border:0}#searchform input[type=submit],.woocommerce-product-search input[type=submit]{padding:10px 0 9px;float:right;width:100%;height:48px;cursor:pointer;text-align:center;color:#fff;transition:all .25s linear;background:rgba(0,0,0,0);border:0;margin-top:10px;border-radius:3px;font-size:14px}#site-footer #searchform input[type=submit]:hover{background:#0274be}.sbutton{padding:8px 12px 10px;border:1px solid #e8e5de!important}.main-header #s{width:150px;border:none!important;color:#fff!important}#s,#woocommerce-product-search-field{width:100%;background-color:#fff;float:left;padding:15px 0;text-indent:10px;color:#999;border:1px solid #DDD;border-radius:3px;box-shadow:1px 1px 3px #EEE inset;box-sizing:border-box;font-size:inherit}#sidebars fieldset,.footer-widgets fieldset,.sidebar #searchform{width:100%}#sidebars .sbutton,.footer-widgets .sbutton{float:right;background-color:#f9f7f2;text-align:center}.sidebar .sbutton{padding-top:10px}#searchform input[type=submit]:hover{background:#222}.screen-reader-text{clip:rect(1px,1px,1px,1px);position:absolute!important;height:1px;width:1px;overflow:hidden}.f-widget,.footer-widget,footer{position:relative}.screen-reader-text:focus{background-color:#f1f1f1;border-radius:3px;box-shadow:0 0 2px 2px rgba(0,0,0,.6);clip:auto!important;color:#21759b;display:block;font-size:14px;font-size:.875rem;font-weight:700;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}#site-footer:after,#site-footer:before,#site-header:after,#site-header:before,.clear:after,.clear:before,.comment-content:after,.comment-content:before,.entry-content:after,.entry-content:before,.site-content:after,.site-content:before{content:"";display:table;table-layout:fixed}#site-footer:after,#site-header:after,.clear,.clear:after,.comment-content:after,.entry-content:after,.site-content:after{clear:both}.alignleft,.left{float:left}.alignright,.right{float:right}.last{margin-right:0}.inside .left{margin-left:1em}.page-links,.widget{margin:0 0 1.5em}.widget select{max-width:100%;width:100%;height:26px;line-height:35px;padding:0 10px}#sidebars p,.sidebar.c-4-12{line-height:20px}.sticky{display:block}.group-blog .byline,.single .byline{display:inline}.page-links{clear:both}.article img.alignleft,.article img.left,.wp-caption.alignleft{margin:.3em 1.571em .5em 0;display:block;float:left}.article img.alignright,.article img.right,.wp-caption.alignright{margin:.3em 0 .5em 1.571em;display:block;float:right}.article img.aligncenter,.article img.center,.wp-caption.aligncenter{margin:.3em auto 1em;display:block;float:none}.article img.aligncenter,.article img.alignnone{margin-top:1em;margin-bottom:1em;display:block;clear:both;float:none}.article ul{margin:1.5em 0 1.571em 1.9em;list-style-type:none;padding:0}.article ol li,.article ul li{margin-bottom:5px}.article ol{margin:1.5em 0 1.571em 1.9em;list-style-type:decimal;padding:0}.article ol ol,.article ol ul,.article ul ol,.article ul ul{margin-top:0;margin-bottom:0}.sidebar.c-4-12{float:right;width:29.5%;max-width:340px}.sidebar.c-4-12 a{color:#555}
+		
+		
+		.widget{margin-bottom:20px;overflow:hidden; padding:20px;}
+		
+		
+		
+		#sidebars #sidebar-search,#sidebars .widget.widget_product_search,#sidebars .widget.widget_search{}#sidebars #sidebar-search h3,#sidebars .widget.widget_product_search h3,#sidebars .widget.widget_search h3{color:#fff}
+		
+		#sidebars .widget{float:left;clear:both;width:100%; margin-top:65px;}
+		
+		
+		.widget .title{font-weight:700;text-transform:uppercase;color:#545E68;font-size:12px}.widget li{list-style-type:square;margin-left:17px;margin-bottom:7px}.widget li: last-child{margin-bottom:0}.widget.widget_nav_menu li{list-style-type:none;margin-left:0}.widget h3{font-weight:400;font-size:20px;color:#fff}.widget.widget_rss h3 a{color:#444}footer .widget.widget_rss h3 a{color:#fff}body>footer{overflow:hidden;width:100%}body>footer .footeText{width:1050px;margin:22px auto;text-align:center;color:#fff;font-size:14px;font-weight:700}body>footer .footeText a{color:#fff;border-bottom:2px solid #ee3f02}body>footer .widget{padding:10px 0 0}body>footer .sidebar .widget .title{font-size:135%;color:#D4D8DB}footer .widget{margin-bottom:20px}footer .widget a{color:#E2E2E2}footer .widget li a:hover{color:#fff}footer{overflow:hidden;background:#364956;width:100%;clear:both}footer p{color:#8D8D8D}.f-widget{width:32%;max-width:301px;float:left;color:#C2C2C2;margin-bottom:10px;margin-right:7%}#copyright-note,.wp-caption,embed,iframe,object{max-width:100%}.f-widget .advanced-recent-posts a{color:#fff}.copyrights{float:left;width:100%;clear:both;padding-bottom:17px;padding-top:20px;background:#fff}#copyright-note{width:1152px;margin:0 auto;clear:both}#sidebars .wp-post-image,footer .wp-post-image{margin-bottom:0;margin-top:5px;margin-right:10px}
+		
+		
+		.postsby{text-align:center;
+    color: #fff;
+    padding-bottom: 6px;
+    border-bottom: 1px solid #e5e5e5; font-weight:600;}
+		
+		.textwidget a:hover{color:#222!important}.footer-widgets{width:100%;margin:0;padding:40px 0 10px;color:rgba(255,255,255,.25);overflow:hidden}.footer-widget,.postauthor-top{margin-bottom:10px}.footer-widgets h3{font-weight:400;font-size:18px;color:#fff}.footer-widget{width:28.6%;float:left;color:#C2C2C2;margin-right:7.1%}.footer-widget.last{margin-right:0;margin-left:0}.footer-widget .widget{padding-top:10px}footer enter;.wp_review_tab_widget_content a,footer .wpt_widget_content a{color:#444}.related-posts{background-color:#FFF;clear:both;float:left;padding:0;width:100%}#respond h4,.related-posts h3,h4.total-comments{font-size:30px;font-weight:400}.related-posts .post.excerpt{width:30.884%;margin-right:3.674%;float:left;list-style:none;clear:none;padding:0;border:none;overflow:hidden;margin-bottom:15px}.related-posts a{display:block;width:100%;color:#666}.related-posts .title{width:100%;padding-top:10px;float:left;margin-top:0;margin-bottom:0;font-size:16px;font-weight:400;line-height:23px;letter-spacing:initial}.postauthor{margin:0 0 30px -6.8%;padding:30px 6.8%;min-height:180px;background-color:#222;float:left;clear:both;width:100%;color:#AAA;box-sizing:content-box}.postauthor h4{font-size:30px;padding-top:6px;padding-bottom:6px;color:#fff}.postauthor h5{font-weight:700;font-size:16px;padding:0;margin:0;line-height:24px;text-transform:capitalize;color:#fff}.postauthor img{float:left;margin:4px 20px 0 0;border-radius:50%}.postauthor h4 a{color:#473636}:: -ie-input-placeholder,:: input-placeholder{color:#585F65;text-shadow:0 1px 1px rgba(255,255,255,.4)}.tags{margin:20px 0 0;width:100%;float:left}.tagtext{margin-right:5px}input,select,textarea{padding:8px 12px;font-size:12px;color:#5E656D}textarea{overflow:auto;resize:vertical}.comment_text_area,.pagination,.pnavigation2,.total-comments{overflow:hidden}:: -moz-input-placeholder{color:#585F65;text-shadow:0 1px 1px rgba(255,255,255,.4)}:: -o-input-placeholder{color:#585F65;text-shadow:0 1px 1px rgba(255,255,255,.4)}.total-comments{padding:7px 0 9px;margin-bottom:10px}#comments,#commentsAdd{padding:0;background-color:#fff;width:100%;float:left;clear:both}.cnumber{color:#2DB2EB}#comments{margin:10px 0 0}#commentsAdd{box-sizing:border-box}#comments .avatar{float:left;margin-right:20px;margin-top:7px}.comment time{color:#999;text-transform:uppercase;font-size:12px}ul.children .commentImageLeft{width:60px;height:90px;border-left:1px solid #c1bbb6;border-bottom:1px solid #c1bbb6;position:absolute;top:-50px;left:-70px}#commentform input,input.text-input{padding:11px}input#author,input#email,input#url{width:100%;border:1px solid #dadada;background:#fff;font-size:14px;float:left;clear:both;max-width:100%}#comment,input#author,input#email,input#url{transition:all .25s ease-in-out}#cancel-comment-reply-link{float:right;line-height:24px;margin-top:0;padding:7px 20px;color:#fff;cursor:pointer;background:red;font-size:16px;position:absolute;top:10px;right:0}.comment-meta,.reply a{font-size:12px}#commentform input#submit{line-height:1;background-color:#0274BE;padding:12px 15px;color:#fff;float:right;cursor:pointer;display:inline-block;border:none;transition:all .2s linear;border-radius:3px}#respond h3:empty,.form-allowed-tags,.infinite-scroll .posts-navigation,.infinite-scroll.neverending #site-footer,.required{display:none}#commentform input#submit:hover{background:#222;color:#fff}ol.commentlist{clear:both;margin:0}.article .commentlist li{list-style:none;padding-left:0;float:left;width:100%;position:relative;margin:0 0 30px}.commentContainer{padding-top:10px;padding-bottom:10px;float:left;width:100%}.children .commentCInner{width:95%;float:right}.avatar,.reply a{float:left}.children .children .commentCInner{width:90%}.commentlist p{margin-bottom:0}.fn{line-height:1.375em;font-weight:700}.fn a{color:#473636}.comment-meta a{color:#888}.commentmetadata{overflow:hidden;margin-top:5px}.reply a{margin-top:5px;color:#BDBDBD}.commentlist .children{margin-left:10%;margin-bottom:0;float:left;width:90%;box-sizing:border-box;margin-top:30px}.commentlist .children li{margin-bottom:10px;padding-bottom:0}#respond h3{font-size:18px;margin:15px 0 0;padding:0 0 20px}.cancel-comment-reply a{float:right;margin-top:-8px;font-size:14px}.comment-awaiting-moderation{font-style:italic;font-weight:700}ol.commentlist>.navigation{margin-bottom:15px;clear:both;float:left;width:100%}ol.commentlist>.navigation.bottomnav{margin-bottom:15px}.article .commentmetadata ol li,.article .commentmetadata ol ul li,.article .commentmetadata ul li,.article .commentmetadata ul ol li{padding:0;border:0;margin-bottom:5px;list-style-type:inherit}#commentform textarea{width:100%;border:1px solid #dadada;background:#fff;font-size:14px;padding:5px 10px 10px;line-height:25px;font-family:georgia;font-style:italic}#commentform p{margin-bottom:15px;float:left;width:100%;clear:both}#commentform p.comment-form-comment{margin-bottom:8px}#commentform p.form-submit{margin-top:10px;margin-bottom:0}#commentform p label{float:left;padding-bottom:5px;padding-top:5px}.required{color:red;float:left;font-size:18px;padding:9px 5px 5px}.comment-notes .required{padding-left:0;padding-top:3px}.comment-notes{font-style:italic;display:none}#respond{position:relative}.infinity-end.neverending #site-footer{display:block}.comment-content .wp-smiley,.entry-content .wp-smiley,.page-content .wp-smiley{border:none;margin-bottom:0;margin-top:0;padding:0}.wp-caption{margin-bottom:1.5em;border:1px solid #ddd}.wp-caption img[class*=wp-image-]{display:block;margin-left:auto;margin-right:auto}.wp-caption .wp-caption-text{margin:.4em 0}.wp-caption-text{text-align:center}.gallery{margin-bottom:1.5em}.gallery-item{display:inline-block;text-align:center;vertical-align:top;width:100%}.gallery-columns-2 .gallery-item{max-width:50%}.gallery-columns-3 .gallery-item{max-width:33.33%}.gallery-columns-4 .gallery-item{max-width:25%}.gallery-columns-5 .gallery-item{max-width:20%}.gallery-columns-6 .gallery-item{max-width:16.66%}.gallery-columns-7 .gallery-item{max-width:14.28%}.gallery-columns-8 .gallery-item{max-width:12.5%}.gallery-columns-9 .gallery-item{max-width:11.11%}.gallery-caption{display:block}#load-posts a,.pagination .current,.pagination .page-numbers.dots,.pagination a,.single .pagination>.current .currenttext{display:inline-block;line-height:1;text-decoration:none;padding:10px 13px;min-width:36px;box-sizing:border-box;border-radius:3px;color:#fff;float:left;text-align:center}.pagination{clear:both;float:left;width:100%;margin-top:25px;margin-bottom:0}.single_post .pagination{margin:10px 0 15px}.pagination ul{list-style:none;margin:0}.pagination ul li{float:left;margin-right:8px}.pagination .current{margin:0 5px 0 0;background:#0274BE}.single .pagination .current{margin:0}#load-posts a,.pagination .page-numbers.dots,.pagination a,.single .pagination>.current .currenttext{background:#222;margin:0 5px 0 0}.single .pagination a{padding:0;border:0}.pagination a:hover{color:#fff;border-color:transparent}.pagination2{clear:both}.pnavigation2{display:block;width:100%;padding:10px 0;float:left;margin-bottom:10px}.nav-previous{float:left}.nav-next,.top{float:right}.nav-next a:hover,.nav-previous a:hover{color:#fff!important;border-color:transparent}.infinite-loader{float:none;display:inline-block;margin:0 auto}.social-profile-icons ul{margin:0 -4px}.social-profile-icons ul li{background:0 0;float:left;list-style-type:none;margin:0 4px 8px;padding:0!important;border:none!important}.social-profile-icons ul li a{width:35.8px;height:35.8px;display:block;float:left;border-radius:3px;text-align:center;line-height:35.8px;color:#FFF!important;transition:all .4s}.sidebar .social-profile-icons ul li a:hover{color:#fff;background:#666}.social-profile-icons ul li i{font-size:16px;line-height:32px}.social-profile-icons .social-youtube a{background:#c9322b}.social-profile-icons .social-rss a{background:#ef922f}.social-profile-icons .social-twitter a{background:#40bff5}.social-profile-icons .social-facebook a{background:#5d82d1}.social-profile-icons .social-gplus a{background:#eb5e4c}.social-profile-icons .social-vimeo a{background:#35c6ea}.social-profile-icons .social-dribbble a{background:#f7659c}.social-profile-icons .social-tumblr a{background:#426d9b}.social-profile-icons .social-instagram a{background:#91653f}.social-profile-icons .social-flickr a{background:#ff48a3}.social-profile-icons .social-pinterest a{background:#e13138}.social-profile-icons .social-linkedin a{background:#238cc8}.social-profile-icons .social-github a{background:#b5a470}.social-profile-icons .social-email a{background:#1d90dd}.social-profile-icons .social-behance a{background:#1879fd}.social-profile-icons .social-skype a{background:#13c1f3}.social-profile-icons .social-soundcloud a{background:#ff7e30}.social-profile-icons .social-stumbleupon a{background:#ff5c30}.social-profile-icons .social-dropbox a{background:#3476e4}.social-profile-icons .social-foursquare a{background:#0bbadf}.social-profile-icons .social-reddit a{background:#f40}.widget.woocommerce ul li{margin-left:0;list-style-type:none;float:left;width:100%}.rtl_on{direction:rtl}.rtl_off{direction:ltr}
+
+
+@media screen and (max-width:1100px){#page,.container{max-width:100%}}
+
+
+	 
+@media screen and (max-width:865px){
+	.navigation.mobile-only{display:none;}		
+		.home-header-container{
+		    
+		    width:100%;height:15em;background:#1673e6; margin-top:60px; background: linear-gradient(rgba(1,6,6,.9) 0,rgba(8,8,7,.9) 35%,rgba(71,71,71,0) 100%),url(https://www.safeticketcompare.com/site-images/footballhero.jpg);}
+		
+		
+		
+		.header-search {display:none;}
+		
+		#site-footer .main-container{padding:0 2%}.site-branding{padding:0;text-align:center;float:none;margin:5px auto}#navigation a,a#pull{width:100%;text-align:left}.primary-navigation{width:100%}#navigation{width:100%;border:none;display:none;height:auto}#navigation .menu .fa>a,#navigation .menu a{background:rgba(0,0,0,0)!important;margin-left:0}#navigation .menu{display:block!important;background:0 0;float:left}#navigation ul ul{visibility:visible!important;opacity:1!important;left:0!important}#navigation ul li li{background:0 0;border:0}#navigation li,#navigation ul li li{width:100%!important;float:left;position:relative}#navigation a .sub,#navigation ul li:after,#navigation ul li:before{display:none}#navigation li a{border-bottom:1px solid rgba(255,255,255,.15)!important;width:100%!important;box-sizing:border-box}a#pull{display:block;background:#000;color:#fff;padding:10px 0;text-indent:2%;text-transform:uppercase;font-size:16px;position:relative}a#pull:after{content:'\f0c9';display:inline-block;position:absolute;right:2%;top:10px;font-family:schema-lite;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}#navigation ul .sfHover a,#navigation ul .sfHover ul li,#navigation ul li:hover{background:0 0}#catcher{height:0!important}.sticky-navigation-active{position:relative!important;top:0!important}.main-container{position:relative;left:0;transition:left .5s ease}.mobile-menu-active .main-container{left:300px;transition:left .5s ease}#navigation.mobile-menu-wrapper{display:block;position:fixed;top:0;left:-300px;width:300px;z-index:9999;height:100%;border-right:1px solid rgba(0,0,0,.15);overflow:auto;transition:left .5s ease;-webkit-backface-visibility:hidden;background:#1D2933}.mobile-menu-active #navigation.mobile-menu-wrapper{left:0}#navigation ul li{width:100%}#navigation ul li:hover,#navigation ul ul li:hover,.primary-navigation .menu .current-menu-item>a:after{background:0 0}#navigation ul li a,#navigation ul ul a{padding:10px 20px;width:100%;border:none;min-height:auto;border-right:0}#navigation ul ul{position:static;width:100%;border:none;background:0 0;float:left;display:none}#navigation ul ul li{background:0 0;width:100%;padding:0}#navigation>ul li:first-child a{border-left:none!important}#navigation i{display:inline}#navigation ul ul a{padding:0 20px;width:100%!important;font-weight:600}#navigation .toggle-caret{display:block;width:44px;height:44px;line-height:44px;color:#fff;border-left:1px solid rgba(255,255,255,.15)}#mobile-menu-overlay{position:fixed;width:100%;height:100%;top:0;left:0;z-index:-1;cursor:pointer;display:none;backface-visibility:hidden;background:rgba(0,0,0,.5)}html.noscroll{position:fixed;overflow-y:scroll;width:100%}.menu-item-has-children>a:after{content:''}#wpmm-megamenu .wpmm-subcategories{width:100%;text-indent:0}#wpmm-megamenu .wpmm-posts{width:100%}#wpmm-megamenu .wpmm-post{width:100%!important;padding:0 10px!important;text-align:center!important}#wpmm-megamenu .wpmm-thumbnail img{float:left}#wpmm-megamenu.wpmm-light-scheme{display:none}.wpmm-megamenu-showing.wpmm-light-scheme{background:0 0!important}.single-title,.title{font-size:28px}}
+		
+		@media screen and (max-width:720px){.article,.articlereview,.eventarticle,.sidebar.c-4-12{width:100%;margin-left:auto;margin-right:auto;}
+		
+		.home-header-container{width:100%;height:15em; margin-top:60px;background:#1673e6;background:linear-gradient(135deg,#1673e6 50%,#01a1e7 100%);background-image:url(https://www.safeticketcompare.com/site-images/footballhero780.jpg);padding-top:30px}.sidebar.c-4-12{float:none!important;overflow:hidden}.pagination{margin-bottom:0}.sidebar.c-4-12 .sidebar_list{margin-top:30px}#page{padding-top:20px}
+		
+		.event-groupings__conferences {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: block;
+}
+		.event-groupings__team {
+    width: 99%;}
+		
+		
+		.viewticketsbutton{font-size:14px; margin-top:0px; padding: 6px 50px;}
+		
+		
+		
+		
+		}
+		
+		
+		
+		@media screen and (max-width:640px){.footer-widget{width:48%;margin-right:4%;}.footer-widget:nth-child(even){margin-right:0}.single-title,.title{font-size:20px} .teaminfobox {width:100%;} .nextgametags {width:100%;} }
+		
+		@media screen and (max-width:550px){.related-posts .post.excerpt{width:48%;margin-right:4%;margin-bottom:15px;}.related-posts .post.excerpt.last{clear:left;}.related-posts .post.excerpt: nth-of-type(2n){margin-right:0;}.related-posts #featured-thumbnail{max-width:100%;}}
+		
+		@media screen and (max-width:480px){.footer-widget{width:100%;}.related-posts .post.excerpt{width:100%;margin-right:0;margin-bottom:0; }.home-header-container{width:100%;height:15em;background:#1673e6; margin-top:60px;
+		
+	
+	background:linear-gradient(rgba(1,6,6,.9) 0,rgba(8,8,7,.9) 35%,rgba(71,71,71,0) 100%),url(https://www.safeticketcompare.com/site-images/footballhero480.jpg);}
+	
+	
+	.eventdetails { margin-top:10px; }
+	
+	#copyright-note,.top{width:100%;text-align:center}
+		.ticket{width:80%;}
+
+	}
+.viewticketsbutton:hover{background:darkgreen;}
+
+
+select#location, select#event_date {
+   -webkit-appearance: button;
+   -webkit-border-radius: 5px;
+   -webkit-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.1);
+   -webkit-padding-end: 20px;
+   -webkit-padding-start: 2px;
+   -webkit-user-select: none;
+   background-image: url(http://i62.tinypic.com/15xvbd5.png), -webkit-linear-gradient(#FAFAFA, #F4F4F4 50%, #2da39a);
+   background-position: 97% center;
+   background-repeat: no-repeat;
+   border: 1px solid #AAA;
+   color: #555;
+   font-size: inherit;
+   margin: 20px;
+   overflow: hidden;
+   padding: 5px 10px;
+   text-overflow: ellipsis;
+   white-space: nowrap;
+   width: 330px;
+}
+
